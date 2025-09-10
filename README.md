@@ -1,4 +1,4 @@
-# Team 09 Final Project: Train Sinulator
+Digital Circuits Lab Final Project: Train Simulator
 Real-Time Video Streaming with Joystick Control
 
 ## Project Overview
@@ -174,4 +174,5 @@ This project was developed by Team 09 as a final project, demonstrating advanced
 ## License
 
 This project is for educational purposes. Please refer to individual module headers for specific licensing information, particularly for Terasic Technologies components.
+
 
